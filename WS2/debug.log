@@ -1,0 +1,6 @@
+[0916/234716.438:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\: Acesso negado. (0x5)
+[0916/234716.724:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O encaminhamento (pipe) foi terminado. (0x6D)
+[0916/234716.726:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\: Acesso negado. (0x5)
+[0916/234810.339:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\: Acesso negado. (0x5)
+[0916/234810.351:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O encaminhamento (pipe) foi terminado. (0x6D)
+[0916/234810.353:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\: Acesso negado. (0x5)
